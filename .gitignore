@@ -1,0 +1,54 @@
+# Python 编译文件
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebook 检查点
+.ipynb_checkpoints/
+
+# 虚拟环境
+venv/
+env/
+.venv/
+
+# 日志、缓存
+*.log
+*.out
+*.tmp
+*.cache/
+.cache/
+
+# 数据和模型（可根据需要保留）
+*.h5
+*.ckpt
+*.pth
+*.pt
+*.npz
+*.npy
+*.tfrecord
+*.onnx
+*.weights
+
+# 图片、输出结果等中间文件
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+*.tif
+*.tiff
+results/
+outputs/
+runs/
+images/
+
+# OS 特定文件
+.DS_Store
+Thumbs.db
+
+# VSCode / PyCharm 配置
+.vscode/
+.idea/
+
+# Jupyter Lab workspace
+.lab/

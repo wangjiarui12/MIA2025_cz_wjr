@@ -1,0 +1,13 @@
+Logging to ./translated_images
+creating model and diffusion...
+encoding the source images.
+obtained latent representation for 5 samples...
+latent with mean 0.00455857627093792 and std 0.9897459745407104
+created 1 samples
+saving translated images.
+    saving: ./translated_images/images/breast_1213_translated.png
+    saving: ./translated_images/images/carotid_0440_translated.png
+    saving: ./translated_images/images/kidney_1064_translated.png
+    saving: ./translated_images/images/liver_0850_translated.png
+    saving: ./translated_images/images/thyroid_0030_translated.png
+domain translation complete
